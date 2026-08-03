@@ -11,7 +11,7 @@
 <h1 align="center">Hi 👋, I'm Md Sohail Ansari</h1>
 
 <h3 align="center">
-  Full Stack Engineer • SaaS Builder • AI & Automation
+  Full Stack Engineer • DevOps • AI & Automation
 </h3>
 
 <p align="center">
@@ -33,7 +33,7 @@
   </a>
 
   <!-- Replace with the new portfolio URL from your resume -->
-  <a href="YOUR_NEW_PORTFOLIO_URL">
+  <a href="https://akaportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
@@ -189,7 +189,7 @@ AI-powered interview platform generating technical interviews with real-time eva
 
 <br/>
 
-<a href="YOUR_CREATORSHUB_LINK">
+<a href="https://creators-hub-phi.vercel.app/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-7C3AED?style=for-the-badge" />
 </a>
 
@@ -212,7 +212,7 @@ AI-powered mobile travel planner generating personalized itineraries based on us
 
 <br/>
 
-<a href="YOUR_VOYAGE_GENIE_LINK">
+<a href="https://voyage-genie.netlify.app/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-0EA5E9?style=for-the-badge" />
 </a>
 
@@ -240,7 +240,7 @@ AI-assisted lead-generation workflow collecting, filtering, validating and autom
 
 <br/>
 
-<a href="YOUR_LEAD_GENERATION_LINK">
+<a href="https://instantwork.netlify.app/">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-16A34A?style=for-the-badge" />
 </a>
 
